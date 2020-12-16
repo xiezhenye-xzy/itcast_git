@@ -5,4 +5,6 @@ public class Girl {
     private String age;
     private String password;
 
+    private String email;
+
 }
